@@ -1,3 +1,2 @@
-'some string here'
-
+console.log('some string here');
 
