@@ -1,0 +1,11 @@
+hello! 
+it is my new file. 
+
+There are two modes
+
+- comand mode
+- edit mode
+
+You need to switch between then all time. It is confusing.
+
+
