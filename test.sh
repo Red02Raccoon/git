@@ -22,4 +22,13 @@ else
 	echo "This is - $user_answer"
 fi
 
+function my() {
+ total=$(($1+$2))
+ return $total
+}
 
+value=$(my 10 15)
+echo "result of function_2 $value"
+
+echo "This is current user - $USER"
+echo "THis is current directory - $PWD"
