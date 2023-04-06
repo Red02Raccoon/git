@@ -1,1 +1,1 @@
-console.log("script_0");
+console.log("script_0", "2");
