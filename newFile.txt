@@ -1,6 +1,9 @@
 hello! 
 it is my new file. 
 
+You need to switch between then all time. It is confusing. some updates
+
+
 There are two modes
 
 - comand mode
@@ -9,7 +12,5 @@ There are two modes
 You need to switch between then all time. It is confusing. some updates
 You need to switch between then all time. It is confusing. some updates
 
-Hello from 2022
-test 111
 
 
